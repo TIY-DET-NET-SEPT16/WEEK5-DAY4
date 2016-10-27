@@ -98,7 +98,6 @@ namespace LINQ
                 Console.WriteLine("Name: {0}", p);
             }
 
-
             Console.ReadLine();
         }
     }
